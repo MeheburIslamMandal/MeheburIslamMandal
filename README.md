@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Mehebur Islam Mandal
 #### Front End Web Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a front-end web developer with a strong understanding of HTML, CSS, and JavaScript. I specialize in building responsive, user-friendly interfaces using Tailwind CSS and React js. My goal is to deliver intuitive and visually appealing web experiences through modern design and cutting-edge technologies.
 
 Skills: HTML / CSS / JS / Tailwind CSS / React JS
 
