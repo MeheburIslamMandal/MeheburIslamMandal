@@ -23,8 +23,6 @@ Skills: HTML / CSS / JS / Tailwind CSS / React JS
 <a href="https://www.youtube.com/user/MeheburIslamMandal" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=MeheburIslamMandal)](https://github.com/ryo-ma/github-profile-trophy) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeheburIslamMandal)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeheburIslamMandal&show_icons=true)  
 
