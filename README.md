@@ -11,8 +11,18 @@ Skills: HTML / CSS / JS / Tailwind CSS / React JS
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MeheburIslamMandal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MeheburIslamMandal/)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MeheburIslam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/MeheburIslamMandal) 
+<a href="https://github.com/MeheburIslamMandal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/MeheburIslamMandal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/MeheburIslamMandal.fb" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/MeheburIslamMandal" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MeheburIslamMandal)](https://github.com/ryo-ma/github-profile-trophy) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeheburIslamMandal)](https://github.com/anuraghazra/github-readme-stats)
 
