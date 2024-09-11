@@ -18,7 +18,7 @@ Skills: HTML / CSS / JS / Tailwind CSS / React JS
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.x.com/MeheburIslam" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/x-%232E87FB.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/MeheburIslamMandal" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
