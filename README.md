@@ -1,4 +1,4 @@
-![Front End Web Developer][(https://media.licdn.com/dms/image/v2/D5616AQHp8FU6EzVgPw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723699430698?e=1729123200&v=beta&t=syHJMSNHCfTH2rIgAPfPuat0nBCpp9ANtkTXzEW5zqI)](https://www.linkedin.com/in/meheburislammandal/overlay/background-image/)
+![Front End Web Developer](https://www.linkedin.com/in/meheburislammandal/overlay/background-image/)
 
 ### Hi there 👋, I am Mehebur Islam Mandal
 #### Front End Web Developer
